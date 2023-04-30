@@ -1,0 +1,6 @@
+Para que sirve Github?
+Github es una plataforma creada para alojar el código
+de las aplicaciones de cualquier desarrollador web y,
+que como usuario, da la opción de descargarse la aplicación
+o acceder a su perfil para leer o colaborar en el desarrollo
+de los diferentes proyectos..
